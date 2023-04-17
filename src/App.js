@@ -1,5 +1,10 @@
+import Hero from './components/Hero'
 function App() {
-  return <div>loop studios</div>
+  return (
+    <div>
+      <Hero />
+    </div>
+  )
 }
 
 export default App
